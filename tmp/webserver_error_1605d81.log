@@ -8,3 +8,4 @@ AH00558: httpd.exe: Could not reliably determine the server's fully qualified do
 AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::6845:e5c9:8b35:b977. Set the 'ServerName' directive globally to suppress this message
 [Thu May 12 22:14:08.888200 2022] [core:warn] [pid 7612:tid 600] AH00117: Ignoring deprecated use of DefaultType in line 21 of C:/Projects/Project3/tmp/webserver.conf.
 AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::6845:e5c9:8b35:b977. Set the 'ServerName' directive globally to suppress this message
+[Thu May 12 22:14:08.968545 2022] [mpm_winnt:notice] [pid 7612:tid 600] AH00354: Child: Starting 64 worker threads.
