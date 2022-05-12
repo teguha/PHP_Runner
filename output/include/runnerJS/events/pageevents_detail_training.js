@@ -1,0 +1,2 @@
+
+Runner.pages.PageSettings.addPageEvent('detail_training',Runner.pages.constants.PAGE_EDIT,"afterPageReady",function(pageObj,proxy,pageid,inlineRow,inlineObject,row){if(proxy["updated"]){swal("Status","Record updated","info");}});Runner.pages.PageSettings.addPageEvent('detail_training',Runner.pages.constants.PAGE_ADD,"afterPageReady",function(pageObj,proxy,pageid,inlineRow,inlineObject,row){if(proxy["added"]){swal("Status","Record added","info");}});

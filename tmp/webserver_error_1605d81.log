@@ -1,0 +1,10 @@
+[Thu May 12 22:14:05.508670 2022] [core:warn] [pid 7880:tid 584] AH00117: Ignoring deprecated use of DefaultType in line 21 of C:/Projects/Project3/tmp/webserver.conf.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::6845:e5c9:8b35:b977. Set the 'ServerName' directive globally to suppress this message
+[Thu May 12 22:14:07.590590 2022] [mpm_winnt:notice] [pid 7880:tid 584] AH00455: Apache/2.4.41 (Win32) PHP/7.2.22 configured -- resuming normal operations
+[Thu May 12 22:14:07.590590 2022] [mpm_winnt:notice] [pid 7880:tid 584] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 11:47:29
+[Thu May 12 22:14:07.645442 2022] [core:notice] [pid 7880:tid 584] AH00094: Command line: 'C:\\Program Files (x86)\\PHPRunner10.7\\EmbeddedServer\\bin\\httpd.exe -d C:/Program Files (x86)/PHPRunner10.7/EmbeddedServer -d C:\\Program Files (x86)\\PHPRunner10.7\\EmbeddedServer -f C:\\Projects\\Project3\\tmp\\webserver.conf'
+[Thu May 12 22:14:07.654418 2022] [mpm_winnt:notice] [pid 7880:tid 584] AH00418: Parent: Created child process 7612
+[Thu May 12 22:14:08.717032 2022] [core:warn] [pid 7612:tid 600] AH00117: Ignoring deprecated use of DefaultType in line 21 of C:/Projects/Project3/tmp/webserver.conf.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::6845:e5c9:8b35:b977. Set the 'ServerName' directive globally to suppress this message
+[Thu May 12 22:14:08.888200 2022] [core:warn] [pid 7612:tid 600] AH00117: Ignoring deprecated use of DefaultType in line 21 of C:/Projects/Project3/tmp/webserver.conf.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::6845:e5c9:8b35:b977. Set the 'ServerName' directive globally to suppress this message
